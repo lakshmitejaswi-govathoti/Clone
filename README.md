@@ -35,7 +35,7 @@ This To-Do app allows users to create, manage, and track their tasks efficiently
 
 ## Installation
 
-1. Clone the repository:  `git clone https://github.com/[your-username]/to-do-app.git` (Replace `[your-username]` with your GitHub username).
+1. Clone the repository:  `git clone https://github.com/lakshmitejaswi-govathoti/to-do-app.git`.
 2. Open the `index.html` file in your web browser.
 
 ## How to Use
