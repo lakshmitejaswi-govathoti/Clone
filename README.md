@@ -47,10 +47,10 @@ This To-Do app allows users to create, manage, and track their tasks efficiently
 
 ## Project Structure
 to-do-app/
-├── index.html      // Main HTML file
-├── styles.css     // CSS stylesheet
-├── script.js      // JavaScript file
-└── README.md      // This file
+## ├── index.html      // Main HTML file
+## ├── styles.css     // CSS stylesheet
+## ├── script.js      // JavaScript file
+## └── README.md      // This file
 
 
 ## Future Enhancements
